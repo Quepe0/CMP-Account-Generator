@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^8.0.2",
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12",
+    "random-useragent": "^0.5.0"
+  },
+  "name": "cmp-ac-gen",
+  "version": "0.0.1",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Quepe",
+  "license": "ISC",
+  "description": ""
+}
